@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:41:38.506605
+#+DATE: 2015-08-30 20:41:45.968708
 #+TITLE: 根本說一切有部苾芻尼毘奈耶
 #+PROPERTY: CBETA_ID T23n1443
 #+PROPERTY: ID KR6k0024
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 23, No. 1443
 #+PROPERTY: VOL 23
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENGYI
 #+PROPERTY: LASTPB <pb:KR6k0024_T_001-0907a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1443¶
-
- 《根本說一切有部苾芻尼毘奈耶》¶
+No. 1443¶
+《根本說一切有部苾芻尼毘奈耶》¶
 卷第一¶
 ¶
 三藏法師義淨奉　制譯¶
 
-毘奈耶序
-:PROPERTIES:
-:head: 毘奈耶序
-:END:
-¶
+毘奈耶序¶
 
 #+BEGIN_VERSE
 「　稽首大悲尊
@@ -185,11 +180,7 @@ No.1443¶
 #+END_VERSE
 」¶
 
-1八波羅市迦法
-:PROPERTIES:
-:head: 八波羅市迦法
-:END:
-
+八波羅市迦法
 
 總攝頌曰。¶
 
@@ -201,11 +192,7 @@ No.1443¶
 #+END_VERSE
 」¶
 
-1不淨行學處
-:PROPERTIES:
-:head: 不淨行學處第一
-:END:
-¶
+不淨行學處第一¶
 
 爾時菩薩在覩史天宮。將欲下生。先以五事¶
 觀察世間。云何為五。一觀遠祖。二觀時節。三
@@ -515,7 +502,7 @@ No.1443¶
 #+BEGIN_VERSE
 「　所食無過一昇飯
 　眠臥唯須一小床¶
-　兩張㲲布足遮身
+　兩張[疊*毛]布足遮身
 　自外並是愚癡物
 #+END_VERSE
 」¶
@@ -544,7 +531,7 @@ No.1443¶
 
 作是語已命掌庫人曰。汝當與我一最下衣。¶
 我欲捨家修出離業。彼開庫藏撿閱諸衣悉皆¶
-無價。唯有一叚最下㲲布。略准其價。猶直一
+無價。唯有一叚最下[疊*毛]布。略准其價。猶直一
 <pb:KR6k0024_T_001-0911a>¶
 億金錢。持奉迦攝波。彼既受已從舍而去。¶
 
